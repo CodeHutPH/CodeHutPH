@@ -5,7 +5,8 @@
 - 📫 How to reach me? Email: codehutph@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love playing NBA 2k's!🏀
-- ⭐ Working on: 💛MAYU and 🛒BPA
+- ⭐ Working on: 💛MAYU 🛒McSMart 🧑🏻You
+- 😀 Milestones: [Self](https://tinyurl.com/year-upgrade)
 <!---
 CodeHutPH/CodeHutPH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
