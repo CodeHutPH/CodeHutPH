@@ -8,7 +8,7 @@
 - ⭐ Working on: 💛MAYU 🛒McSMart 🧑🏻You  
 - 😀 Milestones:  
   1️⃣ <a href="https://tinyurl.com/year-upgrade" target="_blank">Self</a>  
-  2️⃣ <a href="http://tinyurl.com/nico-2025" target="_blank">Portfolio-Prototype</a>  
+  2️⃣ <a href="http://tinyurl.com/nico-2025" target="_blank">Portfolio</a>  
 
 <!---
 CodeHutPH/CodeHutPH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
